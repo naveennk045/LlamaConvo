@@ -1,8 +1,5 @@
-import os
-from dotenv import load_dotenv
 from groq import Groq
 
-load_dotenv()
 
 client = Groq(
     api_key ="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"
