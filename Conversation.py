@@ -1,6 +1,4 @@
 import streamlit as st
-import sys
-import os,time
 from groq import InternalServerError
 from Llama import prompt
 
