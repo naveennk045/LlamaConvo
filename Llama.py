@@ -2,7 +2,7 @@ from groq import Groq
 
 
 client = Groq(
-    api_key ="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"
+    api_key ="***********************"
 )
 
 # Initialize an empty list to keep track of conversation history
